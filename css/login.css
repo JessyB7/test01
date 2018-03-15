@@ -1,0 +1,105 @@
+[genuitec-file-id="wc1-5"],[genuitec-lp-path="/web3/WebRoot/css/login.css"],[genuitec-lp-enabled=false]{
+  /* for codelive */
+}
+
+.top{
+	height: 100px;
+	width: 100%;
+	padding-left: 
+}
+.top-img{
+	float: left;
+	margin-top: 10px;
+	height: 80px;
+	width: 80px;
+}
+.top-p{
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+	font-size: 48px;
+	font-family: Arial;
+	color: rgba(0, 171, 169, 1);
+	line-height: 80px;
+}
+.content{
+	width:100%;
+	background-color: rgba(0, 171, 169, 1);
+}
+.content-p{
+	color:#ffffff;
+	font-size: 30px;
+	padding-top:65px;
+	float: left;
+	height: 460px;
+}
+.content-p>p{text-align: left;}
+.content-img{
+	width:540px;
+	height: 350px;
+	margin-top:30px; 
+}
+.content-login{
+	width: 390px;
+	height: 460px;
+	float: right;
+	margin-top: 65px;
+	background-color: rgba(236, 255, 250, 1);	
+}
+.login-p{
+	height: 48px;
+	width: 100%;
+	background-color: rgba(223, 255, 247, 1);	
+	font-size: 28px;
+	text-align: center;
+	padding-top: 12px;
+}
+.login-un,.login-pw,.login-code{
+	width: 288px;
+	height: 40px;
+	margin: 30px auto 0;
+	display: block;
+}
+.login-un>p,.login-pw>p,.login-code>p{
+	font-size:18px;
+	line-height:40px;
+	width:60px;
+	text-align:right;
+	float: left;
+}
+.login-code>input{width: 90px;}
+.login-code>img{float: right;}
+.imgcode{width: 95px;height: 40px;}
+.login-rmb{font-size: 14px;height: 19px;width: 288px; margin: 20px auto;}
+.login-rmb>input{
+	height: 15px;
+	width: 15px;
+	float: left;
+	margin-top: 1px;
+	border:1px solid rgb(0, 176, 80);
+}
+.login-rmb>input:checked{border:1px solid rgb(0, 176, 80);}
+.login-rmb>a{float: right;}
+.login-btn{	
+	width: 288px;
+	height: 50px;
+	text-align: center;
+	background-color: #00B050;
+	color:#ffffff;
+	font-size: 24px;
+	margin-left: 51px;
+}
+.login-reg{
+	width: 288px;
+    margin: 30px 51px;
+    float: left;
+    text-align: center;
+}
+.footer{
+	line-height: 80px;	
+    max-height: 80px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}

@@ -1,0 +1,66 @@
+[genuitec-file-id="wc1-4"],[genuitec-lp-path="/web3/WebRoot/css/common.css"],[genuitec-lp-enabled=false]{
+  /* for codelive */
+}
+
+html{
+	height: 100%;
+}
+body{
+	margin: 0;
+	height: 100%;
+	width:1440px;
+	background-color: rgba(236, 255, 250, 1);	
+    overflow: hidden;
+    font-family:"Î¢ÈíÑÅºÚ",Arial;
+    font-size:16px;
+    color:#333;
+}
+a{
+	color: #00B050;
+	text-decoration: none;
+}
+p{	
+	margin:0px;
+	text-align: center;
+}
+img{}
+input{
+	outline: none;
+	height: 38px;
+	width: 196px;
+	border: 1px solid #00B050;
+	float: left;
+    margin-left: 10px;
+	border-radius: 3px;
+	padding:0 10px;
+	background-color: rgba(236, 255, 250, 0);	
+	font-size: 16px;
+}
+input[type=button],input[type=reset],input[type=submit]{
+	cursor: pointer;
+}
+textarea{
+	border:1px solid green;
+}
+
+ul{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+ul li{}
+
+table{
+	width:100%;
+	border-collapse:collapse;
+}
+thead{}
+tbody{}
+tfoot{}
+td,th{	
+	border:1px solid green;
+	padding:3px 7px 2px 7px;
+}
+tr{}
+th{}
+td{}
